@@ -2,8 +2,8 @@
 ---
 ## 📷 Project Preview
 End-to-End Data Analytics Project on Amazon Prime Video Movies &amp; TV Shows using Python, SQL concepts, EDA, and Power BI Dashboard.
-
-<img width="618" height="342" alt="Dashboard" src="https://github.com/user-attachments/assets/7d5c24e4-6d4e-4384-be96-dabc0f01caaa" />
+---
+<img width="609" height="342" alt="Dashboard" src="https://github.com/user-attachments/assets/f88c3e1c-5bd6-4106-a28d-f284e7c676df" />
 
 > A comprehensive Exploratory Data Analysis (EDA) project on the Amazon Prime Video content library using Python. This project uncovers trends in content distribution, audience ratings, genres, production countries, runtime, and viewer engagement to generate actionable business insights.
 
